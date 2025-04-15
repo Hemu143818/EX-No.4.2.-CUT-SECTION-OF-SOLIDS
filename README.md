@@ -1,6 +1,6 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
-
+## DATE:15-04-2025
+## NAME: KUNATI HEMANTH YADAV
 ## AIM: 
 To create the solid model from given drawing and section the solid model
 
